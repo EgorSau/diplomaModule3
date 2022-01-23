@@ -1,6 +1,6 @@
 # Егор Саушкин
 
-!(img/myPhoto.jpeg)
+![](img/myPhoto.jpeg)
 
 ## Обо мне
 Мне 30 лет
